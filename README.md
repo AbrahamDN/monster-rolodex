@@ -1,4 +1,4 @@
-**url https://abrahamdn.github.io/monster-rolodex/
+`URL` https://abrahamdn.github.io/monster-rolodex/
 
 ## Summary
 A collection of monster cards/ a rolodex of monsters, with names and emails provided. 
